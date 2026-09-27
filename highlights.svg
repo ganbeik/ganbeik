@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="132" viewBox="0 0 1000 132">
+<style>.card{animation:rise .8s ease-out both}@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}</style>
+<g class="card" style="animation-delay:0.0s">
+<rect x="1" y="1" width="318" height="128" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" width="318" height="4" rx="2" fill="#3fb950"/>
+<text x="24" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#3fb950">−75%</text>
+<text x="24" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e6edf3">research-task time</text>
+<text x="24" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">AutoGen multi-agent workflows</text></g><g class="card" style="animation-delay:0.25s">
+<rect x="337" y="1" width="318" height="128" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x="337" y="1" width="318" height="4" rx="2" fill="#58a6ff"/>
+<text x="360" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#58a6ff">+28%</text>
+<text x="360" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e6edf3">retrieval accuracy</text>
+<text x="360" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">FAISS + Neo4j GraphRAG</text></g><g class="card" style="animation-delay:0.5s">
+<rect x="673" y="1" width="318" height="128" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x="673" y="1" width="318" height="4" rx="2" fill="#d2a8ff"/>
+<text x="696" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#d2a8ff">+20%</text>
+<text x="696" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e6edf3">sentiment accuracy</text>
+<text x="696" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">GenAI opinion mining</text></g></svg>

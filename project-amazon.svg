@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="160" viewBox="0 0 490 160">
+<rect x="1" y="1" width="488" height="158" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" width="6" height="158" rx="3" fill="#58a6ff"/>
+<text x="24" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#e6edf3">Amazon Reviews NLP</text>
+<text x="24" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">What drives 4,252 lip balm reviews: topics,</text>
+<text x="24" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">sentiment and a star-rating model.</text>
+<rect x="24" y="118" width="124" height="24" rx="12" fill="#58a6ff" fill-opacity=".14"/><text x="86" y="134" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#58a6ff">Topic modeling</text><rect x="155.60000000000002" y="118" width="72" height="24" rx="12" fill="#58a6ff" fill-opacity=".14"/><text x="192" y="134" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#58a6ff">XGBoost</text><rect x="235.40000000000003" y="118" width="57" height="24" rx="12" fill="#58a6ff" fill-opacity=".14"/><text x="264" y="134" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#58a6ff">VADER</text>
+<text x="462" y="42" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#484f58">↗</text>
+</svg>

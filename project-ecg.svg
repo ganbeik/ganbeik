@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="160" viewBox="0 0 490 160">
+<rect x="1" y="1" width="488" height="158" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" width="6" height="158" rx="3" fill="#f0883e"/>
+<text x="24" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#e6edf3">ECG Heart Disease Prediction</text>
+<text x="24" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">Classifying heart disease from 12-lead ECG</text>
+<text x="24" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">signals of 12,000+ patients.</text>
+<rect x="24" y="118" width="146" height="24" rx="12" fill="#f0883e" fill-opacity=".14"/><text x="97" y="134" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#f0883e">Signal processing</text><rect x="177.8" y="118" width="42" height="24" rx="12" fill="#f0883e" fill-opacity=".14"/><text x="199" y="134" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#f0883e">PCA</text><rect x="228.0" y="118" width="124" height="24" rx="12" fill="#f0883e" fill-opacity=".14"/><text x="290" y="134" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#f0883e">Classification</text>
+<text x="462" y="42" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#484f58">↗</text>
+</svg>
