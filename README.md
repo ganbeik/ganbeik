@@ -4,19 +4,8 @@
 
 ```python
 class PeiChingKan:
-    """Data science grad student who turns messy text into decisions."""
-    education  = ["M.S. Data Science, Boston University (2026–2027)",
-                  "Bachelor's, Economics & Data Science, National Tsing Hua University"]
-    focus      = ["NLP", "LLM agents", "RAG / GraphRAG", "machine learning"]
-    experience = ["Marketing Data Science Intern @ Taiwan Marketing Research",
-                  "Research Assistant, LLM Applications @ NTHU",
-                  "Technology & Operations Intern @ DBS Bank"]
-    open_to    = "Summer 2027 internships in Data Science / ML / AI"
-```
 
 ### ✦ Highlights
-
-<img src="highlights.svg" width="100%" alt="-75% research-task time · +28% retrieval accuracy · +20% sentiment accuracy" />
 
 ### ✦ Projects
 
